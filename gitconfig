@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = lazare.boddaert@gmail.com
+	name = Lazare Boddaert
